@@ -8,19 +8,19 @@ This repository documents my journey in software development, artificial intelli
 
 ## 📂 Repository Structure
 
-```
 learning-lab/
 │
 ├── python/
-│   ├── basics/
-│   ├── numpy/
-│   ├── pandas/
-│   └── mini-projects/
+│ ├── basics/
+│ ├── numpy/
+│ ├── pandas/
+│ └── mini-projects/
 │
 ├── ai/
+│ └── ml/
 │
 └── README.md
-```
+
 
 ---
 
@@ -30,14 +30,14 @@ learning-lab/
 
 - 🟡 Python Basics
 - 🟡 Functions
-- 🟡 NumPy
-- ⬜ Pandas
+- ✅ NumPy
+- ✅ Pandas
 - ⬜ Matplotlib
-- ⬜ Scikit-Learn
+- 🟡 Scikit-Learn
 
 ### Artificial Intelligence
 
-- ⬜ Machine Learning
+- 🟡 Machine Learning
 - ⬜ Deep Learning
 - ⬜ Computer Vision
 - ⬜ NLP
@@ -59,9 +59,9 @@ learning-lab/
 | Topic | Status |
 |--------|--------|
 | Python Basics | 🟡 In Progress |
-| NumPy | 🟡 In Progress |
-| Pandas | ⬜ Not Started |
-| AI Fundamentals | ⬜ Not Started |
+| NumPy | ✅ Done |
+| Pandas | ✅ Done |
+| Machine Learning | 🟡 In Progress |
 
 ---
 
