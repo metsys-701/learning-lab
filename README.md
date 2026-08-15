@@ -11,13 +11,13 @@ This repository documents my journey in software development, artificial intelli
 learning-lab/
 │
 ├── python/
-│ ├── basics/
 │ ├── numpy/
-│ ├── pandas/
-│ └── mini-projects/
+│ └── pandas/
 │
 ├── ai/
-│ └── ml/
+│ ├── ml/
+│ ├── dl/
+│ └── projects/
 │
 └── README.md
 
@@ -28,19 +28,34 @@ learning-lab/
 
 ### Python
 
-- 🟡 Python Basics
-- 🟡 Functions
 - ✅ NumPy
 - ✅ Pandas
-- ⬜ Matplotlib
-- 🟡 Scikit-Learn
+- 🟡 Scikit-learn
 
-### Artificial Intelligence
+### Machine Learning (ai/ml)
 
-- 🟡 Machine Learning
-- ⬜ Deep Learning
-- ⬜ Computer Vision
-- ⬜ NLP
+- ✅ Linear Regression
+- ✅ Logistic Regression
+- ✅ Decision Tree
+- ✅ Random Forest
+- ✅ KNN
+- ✅ SVM
+- ✅ Naive Bayes
+- ✅ Model Evaluation Metrics
+- ✅ Overfitting / Underfitting
+- ✅ Hyperparameter Tuning
+- ⬜ XGBoost
+- ⬜ LightGBM
+
+### Deep Learning (ai/dl)
+
+- 🟡 In Progress
+
+### Projects (ai/projects)
+
+- ✅ Titanic Survival Prediction — includes discovering and fixing a mislabeled dataset (data leakage)
+- ✅ Telco Customer Churn Prediction — feature encoding, model comparison
+- ⬜ Big comparison project (MLP vs XGBoost vs LightGBM)
 
 ---
 
@@ -51,17 +66,6 @@ learning-lab/
 - Develop AI and Machine Learning skills.
 - Create practical projects.
 - Keep a consistent learning journal on GitHub.
-
----
-
-## 📅 Progress
-
-| Topic | Status |
-|--------|--------|
-| Python Basics | 🟡 In Progress |
-| NumPy | ✅ Done |
-| Pandas | ✅ Done |
-| Machine Learning | 🟡 In Progress |
 
 ---
 
